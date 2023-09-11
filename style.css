@@ -1,7 +1,9 @@
 .botao{
-    background-color: rgb(233, 136, 136);
-    font-size: hack;
-    color: rgb(253, 156, 224);
+    background-color: rgb(173, 173, 173);
+    font-size: 16px;
+    color: rgb(64, 97, 243);
 border-radius: 20px;
+padding: 25px;
+text-decoration: none;
 
 }
